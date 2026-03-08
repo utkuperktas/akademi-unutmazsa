@@ -47,4 +47,3 @@ toc: false
 
 ## Kapanış
 - [Teşekkür](tesekkur.qmd)
-- [Kaynakça](references.qmd)

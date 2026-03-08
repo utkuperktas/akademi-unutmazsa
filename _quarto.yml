@@ -59,7 +59,6 @@ book:
         - sozluk.qmd
 
     - tesekkur.qmd
-    - references.qmd
 
 bibliography: references.bib
 
@@ -67,7 +66,6 @@ format:
   html:
     theme: cosmo
     css: styles.css
-    toc: true
-    toc-depth: 3
+    toc: false
     number-sections: false
     lang: tr
