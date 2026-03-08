@@ -1,0 +1,77 @@
+---
+title: "3.1"
+subtitle: "**Üniversiteyi Kim Temsil Eder?**"
+toc: false
+---
+
+*Sayısal metriklerin (özellikle h-indeksinin) akademik değerlendirmelerde baskın hâle geldiği günümüzde, bir üniversitenin yalnızca üretim verileriyle değil; temsil kapasitesi, etik liderlik anlayışı ve kurumsal kültürüyle birlikte değerlendirilmesi gerektiğini savunuyorum. Burada, yönetsel pozisyonlara getirilen akademisyenlerin sadece rakamsal başarılarıyla değil; aynı zamanda düşünsel birikimleri, etik duruşları ve kuruma değer katma kapasiteleriyle de ele alınmaları gerektiğine dikkat çekiyorum.*
+
+---
+
+“*Değerli olan her şey sayıya dökülemez.*” — Stefan Collini
+
+Türkiye’de akademi ve üniversite kavramları gündeme geldiğinde, aklımıza gelen ilk şey genellikle bilimsel üretim oluyor. Üretim dediğimizde ise durum hemen sayılara hapsoluyor: Kaç araştırma makalesi, kaç tez, kaç proje, indekslerdeki sıralama, üniversitelerin dünya listelerindeki yeri gibi…
+ 
+Elbette, değerlendirme için istatistiklere bakılır ve her biri çok da önemlidir. Ama bir üniversiteyi sadece sayılarla ölçebilir miyiz? 
+
+Peki, ya nitelik? Temsil?
+ 
+Bugün akademide, tam anlamıyla bir değer kaybı döneminden geçiyoruz. Niteliğin, niceliğe karşı adeta varoluş savaşı verdiği bir zamandayız. Hal böyle olunca sap ile saman birbirine karışıyor. Akademik nitelikten bahsedilince son dönemin en çok konuşulan metriklerinden biri de kuşkusuz “h-indeksi”. Pek çok akademisyen için gurur kaynağı, bazıları için utanç vesilesi, kimileri içinse nötr ve tartışmalı bir gösterge.
+ 
+Ancak mesele yalnızca akademik nitelik ya da metriklerden ibaret değil; bu niteliklerin üniversitenin kamusal temsiline nasıl yansıdığı da kritik bir soru haline geliyor. Dahası, şu temel soruyu da düşünmek gerekiyor: Bu ölçütler, üniversiteyi yöneten ve temsil eden kadroların niteliklerini ne ölçüde yansıtıyor? Nedir gerçekten bu h-indeksi?
+
+2005 yılında Jorge E. Hirsch tarafından geliştirilen h-indeksi, bir araştırmacının hem üretkenliğini hem de yayınlarının etkisini (atıf sayısını) birlikte ölçmeyi amaçlayan bir metriktir. Bugün akademik dünyada oldukça yaygın biçimde kullanılan bu gösterge, bazı önemli avantajlara sahiptir: Objektif ve ölçülebilir veri sunar; bilimsel üretimin devamlılığını ve görünürlüğünü gösterir; kurumsal ya da bireysel düzeyde karşılaştırma imkânı sağlar.
+Ancak kısıtları da azımsanacak gibi değildir: Disiplinlerarası farklılıkları göz ardı eder (örneğin doğa bilimleri ve beşeri bilimlerde yayın ve atıf pratikleri farklıdır); atıf şişirme, yayın kartelleşmesi ve yazar enflasyonu gibi manipülasyonlara açıktır; kısa vadeli popüler konulara odaklanma riskini artırabilir. Dahası, araştırma etiği, bilimsel derinlik, özgünlük, öğretim yetkinliği gibi nitel boyutları yansıtmaz. Liderlik, temsil ve etik duruş gibi üniversite yöneticiliği için kritik olan başka nitelikleri ise hiç ölçmez.
+
+Bu noktada Leiden Manifestosu ^[Hicks, D. et al. (2015). Bibliometrics: The Leiden Manifesto for research metrics. Nature, 520, 429–431.] ve DORA ^[San Francisco Declaration on Research Assessment (DORA), 2012. <https://sfdora.org/>] (San Francisco Declaration on Research Assessment, 2012) gibi uluslararası inisiyatifler çok önemli uyarıları dile getirir.
+
+Leiden Manifestosu açıkça belirtir:
+
+“Araştırma değerlendirmesinde metrikler destekleyici olabilir, ancak karar alma süreçlerinde baskın unsur haline getirilmemelidir.”
+
+DORA ise şunu vurgular:
+
+“Dergi etki faktörü ve benzeri atıf temelli göstergeler, bireysel araştırmacıların veya yöneticilerin liyakatini ölçmek için kullanılmamalıdır.”
+
+Görülüyor ki, h-indeksi bir şeyi söyler ama her şeyi söylemez. h-indeksi, bilimsel etkiyi ölçmek için tek tip bir bakış açısı dayatır. Genç bilim insanları, alanlar arası farklılıklar ve hatta tek bir çığır açıcı çalışmanın etkisi bu metrikte yeterince karşılık bulmaz. Nitelik ile niceliği birbirine karıştırma ve akademik öncelikleri saptırma riski taşır. Ancak yine de, tüm kusurlarına rağmen, basitliği ve şeffaflığı sayesinde hâlâ yaygın biçimde kullanılmaktadır. Sorun, bu göstergenin asıl zayıf olduğu yerlerde —yani ortalama veya düşük h-indekslerde— çok şey söylemediğinin göz ardı edilmesidir.
+
+Bu nedenle, özellikle üniversite yöneticiliği gibi yalnızca akademik performans değil, aynı zamanda temsil ve etik sorumluluk gerektiren rollerde, bu göstergenin sınırları daha da belirginleşir. Bu da bizi şu önemli gerçeğe getirir: Akademik özgürlük, etik liderlik ve belleğe dayalı sağlam bir kurumsal kültür inşası gibi unsurlar, hiçbir zaman yalnızca nicel ölçütlerle —örneğin h-indeksi gibi göstergelerle— tam anlamıyla kavranamaz. Ama öte yandan, akademik geçmişi ve üretim kültürü olmayan bir yönetici ya da akademik liderin, yükseköğrenimde üniversitenin düşünsel ve etik atmosferini zayıflatma riski son derece büyüktür.
+
+Bu noktada *Research Assessment in the Humanities* ^[Ochsner, M., Hug, S. E., & Daniel, H.-D. (2016). Research assessment in the humanities: Towards criteria and procedures. Research Evaluation, 25(3), 242–255.] çalışmasında dile getirilen şu uyarı hatırlanmaya değerdir:
+ 
+“Doğa ve yaşam bilimlerinde yaygın olarak kullanılan bibliyometrik yaklaşımlar, beşerî bilimlere uygulandığında pek çok açıdan yetersiz sonuçlar doğurmuştur; çünkü bu alanlarda farklı yayın pratikleri ve çeşitlilik gösteren yayın kanalları söz konusudur.”
+
+Aynı kaynak, araştırma değerlendirmesinin ancak alanın kendi iç dinamiklerine ve kültürüne duyarlı biçimde, araştırmacılarla sürekli etkileşim içinde kurgulanabileceğini de vurgular:
+“Değerlendirme sürecinin nasıl yapılandırılması gerektiği, o değerlendirmeye tabi olacak araştırmacıların sesine kulak verilerek öğrenilebilir; değerlendirme uygulamaları, yerel araştırma ve iletişim pratiklerine göre uyarlanmalıdır.”
+Bu yaklaşım yalnızca beşerî bilimler için değil, üniversitenin bütün bileşenleri için temel bir ilkeyi hatırlatır: değerlendirme araçları, kurumların kültürel kimliğini ve yerleşik akademik hafızasını göz ardı etmemelidir.
+
+Nitekim bilimsel üretim kültürünün kendisi de bu dengesizlikten etkilenmektedir. Araştırmacılar bugün iki çelişik motivasyon arasında sıkışmaktadır: bir yanda topluma bilgi aktarma, öğrencilerle etkileşim kurma ve kamusal faydaya katkı sunma sorumluluğu; diğer yanda ise yalnızca yayın ve atıf performansı üzerinden değerlendirilen bir mesleki baskı iklimi.
+Zira h-indeksi gibi göstergeler, genç bilim insanlarını hızla yayın yapma baskısına da sokuyor; üstelik bu, ne yazık ki, diğer tüm akademik sorumlulukların (öğretim, kamuya katkı, etik sorumluluk) önüne geçiyor.
+
+Oysa üniversitenin toplumsal ve etik temsiliyetinin güçlenmesi, tam da bu bütünlüklü işlevlerin korunmasına bağlıdır.
+Üniversite kavramının yalnızca yönetim ve üretim süreçlerine indirgenmesi, onun ‘universitas’ olarak tarihsel ve etik anlamını gölgeler. Hasan Ünal Nalbantoğlu’nun da belirttiği gibi, universitas, yalnızca bilginin üretildiği değil, ortak bir anlam ve değer alanının da inşa edildiği bir mekândır ^[Nalbantoğlu, H. Ü. (2009). Arayışlar: Bilim, Kültür, Üniversite. İstanbul: İletişim Yayınları. - Nalbantoğlu’nun eseri, üniversitenin ticarileşmesi ve bilimsel kültürün yozlaşması karşısında, etik ve eleştirel bir düşünce geleneğinin önemli bir temsilidir. Kitap, üniversitenin ve bilimin “tekno-bilim ve pazarlama ethosu” kıskacındaki dönüşümünü, kültürel ve etik bir sorgulama çerçevesinde ele alan temel bir kaynak niteliğindedir.]. Bu nedenle akademik liderlik ve yöneticilik, yalnızca metriklerle değil, aynı zamanda bu değer alanının temsil ve sürdürülebilirlik kapasitesiyle de değerlendirilmelidir.
+ 
+Dolayısıyla burada hedef, dengeyi doğru kurabilmektir: Sayısal göstergeler (h-indeksi dâhil), bilimsel üretim ve süreklilik hakkında bir zemin bilgisi sağlar. Ancak asıl değerlendirme, bunun ötesine geçmeli; temsil kapasitesi, etik liderlik, araştırma vizyonu ve kurumsal hafıza ile birlikte düşünülmelidir. Ve tam da bu nedenle, bir üniversitenin üst yönetiminde —özellikle rektörlük makamında— yalnızca yönetim becerisi değil, aynı zamanda akademik ve etik bir temsil sorumluluğu aramak zorundayız. Çünkü üniversiteyi yönetenin profili, kurumun yalnızca “nasıl yönetildiği” değil, “neyi temsil ettiği” sorusunu da doğrudan belirler; bu da alt kademe yöneticileri hem bağlar hem de şekillendirir.
+
+**Rektör Karneleri, h-İndeksi ve Görmediğimiz Şeyler**
+
+Son dönemde Türkiye’de üniversite rektörlerinin akademik performans göstergeleri, özellikle de h-indeksi üzerinden kamusal bir tartışma konusu haline geldi. Bu tartışmanın kamuoyundaki yansımalarından biri de 6 Haziran 2025 tarihli Oksijen gazetesinde yayımlanan Baran Can Sayın imzalı “202 Rektörün Bilimsel Üretim Performansı” başlıklı analiz haberiyle daha görünür hâle geldi ^[Baran Can Sayın, “202 Rektörün Bilimsel Üretim Performansı”, Oksijen Gazetesi, 6 Haziran 2025.]. Bu tür haberler, üniversite liderliğinin liyakati ve niteliği üzerine kamusal farkındalığın artmasına katkı sağlıyor.
+
+Söz konusu analizde Türkiye’deki 202 üniversitenin rektörlerinin h-indeks puanları incelenmiş; rektörlerin yaklaşık üçte ikisinin, profesörler için kabul edilen 18 puanlık ortalama seviyesinin altında kaldığı ortaya konmuştur. Haberde ayrıca, “10 puan ve altındaki rektör sayısı 60, 3 ve altındakilerin sayısı ise 10” olarak belirtilmiştir. Bu çarpıcı veriler, sayısal göstergelerin kendi başına neyi gösterip neyi gizlediği sorusunu da beraberinde getirmektedir.
+
+Üniversite liderliğinin liyakati ve niteliği üzerine bu denli görünür bir tartışmanın başlamış olması, kuşkusuz olumlu bir gelişme. Ancak bu tartışmanın yalnızca sayısal göstergeler üzerinden yürütülmesi, üniversitenin temsil ettiği daha derin değerlerin ve kültürel boyutunun gözden kaçmasına yol açabilir.
+
+Kaldı ki, Türkiye’de mevcut siyasal yapı, üniversitelerin bu kamusal ve etik temsil işlevini güçlendirmekten çok, onu sınırlamaya dönük bir eğilim göstermektedir. Bu nedenle h-indeksi düşük olan onlarca rektörün atanması da yalnızca bireysel nitelik sorunu değil, bu yapısal tercihin bir yansıması olarak görülebilir.
+
+Yüksek temsil kapasitesine ve güçlü bir akademik geçmişe sahip yöneticilerin kamusal alanı ve kurum belleğini koruma eğiliminde olacağı açıktır. Oysa bugün tercih edilen akademik figürler, bu işlevi taşımaktan çok, üniversitelerin tarihsel ve düşünsel derinliğini zayıflatmaya hizmet etmektedir. Bu yönüyle Türkiye’nin üniversite yapısı, Batı’daki pek çok üniversiteden önemli bir noktada ayrışmaktadır: Kamusal değerlerin ve kurumsal belleğin korunmasına yönelik adımların atılmasına bugünkü siyasi iklim pek fazla alan tanımamaktadır.
+
+Bir üniversitenin rektörü yalnızca bir yönetici değildir; o kurumun bilimsel üretim kapasitesinin, etik değerlerinin ve belleğe dayalı kurumsal kültürünün temsilcisidir. Bu makam, üniversitenin yalnızca idari işleyişini değil, kamusal kimliğini ve geleceğe taşıyacağı değerler manzumesini de şekillendirir. Bu nedenle rektörün akademik geçmişi, araştırma kültürüne olan katkısı ve entelektüel duruşu, yalnızca kişisel nitelikler olarak değil, kurumsal vizyon açısından da belirleyici unsurlar olarak görülmelidir. İşte bu temsil sorumluluğu nedeniyle, rektörlük makamı yalnızca bir üniversitenin değil, aynı zamanda kamusal alanın da önemli bir temsil pozisyonudur; bu yüzden devlet protokolündeki yeri de oldukça yüksektir.
+
+Bu noktada şu temel soru gündeme gelir: Bir üniversite yalnızca “nasıl yönetilmektedir” değil, aynı zamanda “neyi temsil etmektedir?”
+
+Çünkü akademik özgürlük, etik liderlik ve belleğe dayalı sağlam bir kurumsal kültür inşası gibi unsurlar, hiçbir zaman yalnızca nicel ölçütlerle —örneğin h-indeksi gibi göstergelerle— tam anlamıyla kavranamaz. Ancak bununla birlikte, akademik geçmişi ve araştırma kültürü olmayan bir yönetici tipi, bir üniversite için ciddi bir risk oluşturur. Zira böylesi bir yapı, üniversitenin entelektüel derinliğini ve etik omurgasını zayıflatabilir; kurumsal hafızanın daha da silikleşmesine yol açabilir.
+
+Türkiye’de akademik yöneticilikte daha bütüncül ve etik temelli bir değerlendirme kültürüne acilen ihtiyaç var. Nitekim uluslararası ilkeler —Leiden Manifestosu ve DORA’da da vurgulandığı üzere— yönetsel ve akademik liderlik pozisyonlarında yalnızca metriklere değil, temsil kapasitesine, etik değerlere ve kurumsal hafızanın sürdürülebilirliğine dayalı çok boyutlu değerlendirme modellerinin geliştirilmesini gerekli hale getiriyor. Bununla birlikte, bilimsel üretimi neredeyse hiç görünmeyen veya h-indeksi yok denecek kadar düşük olan bir yöneticinin, üniversite gibi düşünsel ve bilimsel kurumun başında bulunması, kurumsal temsil ve akademik liderlik açısından ciddi soru işaretleri doğurur.
+
+Rektörlük gibi yüksek temsil makamlarında, en azından temel bir araştırma kültürünü ve sürekliliğini yansıtan bir bilimsel geçmişin bulunması, liyakat ve kurumsal kimlik açısından asli bir gereklilik olarak görülmelidir. Bu nedenle, bilimsel üretim ve araştırma kültürüne ilişkin göstergeler bu makamlar için açık ve şeffaf kriterler hâline getirilmelidir. Rektörlük yalnızca yönetim başarısı değil, aynı zamanda bilimsel ve kültürel temsil gücü gerektirir. Çünkü üniversitenin gerçek gücü yalnızca rakamlarda değil, inşa ettiği düşünsel ve etik kültürde yatar.
+Nitekim son yıllarda üniversitelerin küresel sıralamalarda üst sıralarda yer alması, birçok ülke için bir prestij meselesine dönüşmüş durumda. Ancak bu sıralamalar, çoğu zaman yalnızca görünürlük, finansal yatırım ve yayın hacmi gibi ölçütlere odaklanıyor; akademik özgürlük, öğretim kalitesi ya da etik liderlik gibi nitelikleri göz ardı ediyor. Bu tür sıralamalar, üniversiteyi “nasıl bir marka” haline getirdiğiyle ilgilenirken, “nasıl bir değer alanı” sunduğunu çoğu zaman ihmal etmektedir. Bu da üniversite liderliğini salt rekabet ve tanıtım odaklı bir yönetime indirgerken, temsil ve etik sorumluluk gibi temel işlevleri zayıflatıyor. Tam da bu nedenle, etik liderliğin görevi; sıralama temelli bu dar kurumsal vizyonu sorgulamak ve aşarak üniversiteyi yeniden düşünsel ve kamusal bir alan olarak inşa etmektir. Bu düzen içinde üniversiteyi yeniden düşünmek çok zor olmamalı, üstelik yalnızca bir yönetim meselesi de olmamalı. Ortak belleğe kulak verip unutulmaması gerekenleri tekrar gün yüzüne çıkarmak yeterli olabilir; sanırım en yalın çözüm bu olurdu. Çünkü bir üniversitenin değeri yalnızca araştırma çıktılarıyla değil; öğrencisine kattığıyla, toplumla kurduğu bağla ve farklı roller üstlenebilme kapasitesiyle anlaşılır. Bu yüzden üniversiteyi yeniden düşünmek, temsil gücü yüksek ve kurumsal belleği taşıyabilen liderlerle mümkün olur.

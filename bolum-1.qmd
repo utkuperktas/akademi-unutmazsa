@@ -1,0 +1,16 @@
+---
+title: "BÖLÜM I"
+pagetitle: "BÖLÜM I — AKADEMİK DEĞER EROZYONU"
+toc: false
+---
+
+Bu bölüm sekiz yazıdan oluşur:
+
+1. [Akademik Zorbalık Bilimi Baltalıyor mu?](akademik-zorbalik.html)
+2. [Akademinin Niceliği, Nitelik Yerine Geçtiğinde…](nicelik-nitelik.html)
+3. [Akademik İflas: Türkiye'de Yükseköğretim Arenasındaki ‘Değer’ Erozyonu](akademik-iflas.html)
+4. [Bilimin Yerine Geçen İdeoloji: Lysenko’nun Gölgesinde](lysenko.html)
+5. [Bilimde Kaybolmak: Akademik Değer Erozyonunun Yansımaları](bilimde-kaybolmak.html)
+6. [Seyirlik Akademi: DNA ile Zirveye](seyirlik-akademi.html)
+7. [Merakın Yerine Hizmet: Öğrenci Emeği Üzerinden Güçsüzleşen Üniversite](merakin-yerine-hizmet.html)
+8. [Görülmeyen Akademi: Atama Kültürünün Gölgesinde Üniversite](gorulmeyen-akademi.html)

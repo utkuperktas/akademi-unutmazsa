@@ -1,0 +1,50 @@
+---
+title: "İçindekiler"
+pagetitle: "İçindekiler"
+toc: false
+---
+
+- [Basılmayan Bir Kitabın Notu](basilmayan.qmd)
+- [Utku Perktaş’ın Çağrısı – Gündüz Vassaf](vassaf-cagri.qmd)
+- [Anlamın Yavaşlıkta Filizlendiği Bir Kitap](yavaslikta-filizlenen.qmd)
+- [Giriş](giris.qmd)
+- [Akademinin Anlamını Hatırlamak](akademinin-anlamini-hatirlamak.qmd)
+
+## BÖLÜM I — Akademik Değer Erozyonu
+- [Bölüme Dair](bolum1.qmd)
+- **1.1.** [Akademik Zorbalık Bilimi Baltalıyor mu?](akademik-zorbalik.qmd)
+- **1.2.** [Akademinin Niceliği, Nitelik Yerine Geçtiğinde…](nicelik-nitelik.qmd)
+- **1.3.** [Akademik İflas: Türkiye'de Yükseköğretim Arenasındaki ‘Değer’ Erozyonu](akademik-iflas.qmd)
+- **1.4.** [Bilimin Yerine Geçen İdeoloji: Lysenko’nun Gölgesinde](lysenko.qmd)
+- **1.5.** [Bilimde Kaybolmak: Akademik Değer Erozyonunun Yansımaları](bilimde-kaybolmak.qmd)
+- **1.6.** [Seyirlik Akademi: DNA ile Zirveye](seyirlik-akademi.qmd)
+- **1.7.** [Merakın Yerine Hizmet: Öğrenci Emeği Üzerinden Güçsüzleşen Üniversite](merakin-yerine-hizmet.qmd)
+- **1.8.** [Görülmeyen Akademi: Atama Kültürünün Gölgesinde Üniversite](gorulmeyen-akademi.qmd)
+
+## BÖLÜM II — Sessizlikten Direnişe: Özgürlük, Hafıza ve Dayanışma
+- [Bölüme Dair](bolum2.qmd)
+- **2.1.** [Sessizlikten Küresel Çöküşe: Akademik Özgürlüğün Kırılgan Haritası](kirilgan-harita.qmd)
+- **2.2.** [Özgür Düşüncenin Soluklandığı Yerler: Türkiye Akademisinde Mücadelenin İzleri](mucadelenin-izleri.qmd)
+- **2.3.** [Akademik Özerkliğin Bedeli: Hüseyin Nail Kubalı’dan Barış Akademisyenlerine](kubali-baris.qmd)
+- **2.4.** [Bir Kurdele, Bir Hafıza: Akademik Duruşun İzleri](kurdele-hafiza.qmd)
+- **2.5.** [Kafesteki Kuşun Evrim Dersi](kafesteki-kus.qmd)
+- **2.6.** [Üniversite Özgürlüğünün Dar Koridorunda](dar-koridor.qmd)
+
+## BÖLÜM III — Akademik Liderlik: Etik, Temsil ve Gelecek
+- [Bölüme Dair](bolum3.qmd)
+- **3.1.** [Üniversiteyi Kim Temsil Eder?](universiteyi-kim-temsil-eder.qmd)
+- **3.2.** [Temsilin Yükü: Sessizlik, Protesto, Kurumsal Görünmezlik](temsilin-yuku.qmd)
+- **3.3.** [Akademik Liderlik: Sessiz Katmanın Gücü](sessiz-katman.qmd)
+- **3.4.** [Düşünmeye Eşitlik Tanımak](dusunmeye-esitlik.qmd)
+- **3.5.** [Hatırlamanın İklimi: Solastalji ve Kurumsal Kaybın Psikocoğrafyası](solastalji.qmd)
+- **3.6.** [Ortalamadan Kaçış: Yapay Zeka Çağında Üniversitenin Hafıza ve Düşünme Rolü](ortalamadan-kacis.qmd)
+- **3.7.** [Son Not – Hafızanın Yönsüzlüğü: Akademik Düşüncenin Funes Çıkmazı](funes-cikmazi.qmd)
+- **3.8.** [Epilog: Belleğe, İlkeye ve Umuda Dair](epilog.qmd)
+
+## BÖLÜM IV — Bugünün Üniversite Sözlüğü
+- [Bölüme Dair](bolum4.qmd)
+- **4.1.** [Sözlük](sozluk.qmd)
+
+## Kapanış
+- [Teşekkür](tesekkur.qmd)
+- [Kaynakça](references.qmd)

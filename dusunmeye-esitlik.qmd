@@ -1,0 +1,68 @@
+---
+title: "3.4"
+subtitle: "**Düşünmeye Eşitlik Tanımak**"
+toc: false
+---
+
+“*Bir üniversiteyi hatırlamak, bazen ona neden ihtiyaç duyduğumuzu tekrar sormaktır.*”
+— Akademi Unutmazsa’nın not defterinden
+
+Bu metin, bir öğretim meselesini işliyor gibi görünse de, aslında üniversite fikrinin en temel çatallaşmasına dokunuyor: Bilgi mi aktarılır, yoksa düşünme mi mümkün kılınır?
+
+Kitap boyunca tartıştığımız bellek, etik, nitelik ve kurumsal dönüşüm meselelerinin, en sade hâliyle bir sınıfta, bir metnin karşısında, bir öğrencinin zihninde nasıl yaşandığını yeniden düşünmek istedim.
+
+Bu yazı, açıklamanın yerini sessiz tanıklığın aldığı bir öğrenme fikrine kulak verirken, aynı zamanda üniversitenin unutmaya direnen başka bir yüzünü de hatırlatıyor.
+
+**Bilmeden Öğretilir mi? – Üniversitenin Anlamına Dair Bir Not**
+
+"*Öğretenin bilmesine gerek yoktur. Yeter ki öğrencinin öğrenebileceğine inansın.*" — Jacques Rancière
+
+“Sen hiç bilmediğin bir dili nasıl öğreteceksin?” Bu soru, kulağa biraz kışkırtıcı gelse de aslında üniversitede ders veren çoğumuzun zihninde dolaylı biçimde hep dolaşır. Öğretmekle açıklamak arasındaki sınırı pek de sorgulamadan yaşar gideriz. Bize göre öğretmek, bilenin açıklamasıdır. Ve öğrencinin görevi, açıklananı anlamaktır.
+
+Ama ya öğrenme, açıklamaya bağlı değilse? Ya bir şeyi öğretmek için, o şey hakkında bilgiye değil, başka bir şeye ihtiyaç varsa; mesela öğrenene duyulan güvene, anlamaya eşlik etmeye?
+
+Üniversitede öğretim yapmanın ne anlama geldiğini yeniden düşünmek için kaleme aldım bu yazıyı. Bildiğini açıklamayan, ama öğrenmenin yine de mümkün olduğu bir deneyimden yola çıkarak.
+
+**Öğretmek Açıklamak mıdır?**
+
+Öğretenin en bilinen yüzü, açıklayan kişi olmasıdır. Bilgi ondadır; karşısındaki ise “bilmesi gereken”dir. Açıklama bu nedenle çift yönlü bir hiyerarşi üretir: Bilen – bilmeyen, anlatan – dinleyen, yöneten – yöneltilen.
+Oysa açıklama her zaman anlamı garanti etmez. Açıklamak öğrenmeye yardımcı olabilir; ancak öğrenme, yalnızca açıklamayla oluşmaz. Çünkü anlam, açıklamanın değil, emekle kazanılan bir iç mücadele sürecidir. Tekrarla, çabayla, direnmeyle gelir. Açıklamaya bağlı kalmak, öğrenmeyi bir bağımlılık ilişkisine dönüştürebilir.
+
+Bu yüzden bazen en sahici öğrenme, açıklamanın geri çekildiği anlarda yaşanır.
+
+**Bilmeden Öğretenin Deneyimi (Joseph Jacotot Vakasına Dair Bir Kesit ^[Bu metindeki Jacotot anlatımı, Jacques Rancière’in The Ignorant Schoolmaster: Five Lessons in Intellectual Emancipation (Stanford University Press, 1991) adlı eserine dayanmaktadır. Rancière, Jacotot’nun 1818’de Flamanca bilmeden Fransızca öğrettiği deneyimi temel alarak, öğrenmenin açıklamaya değil, eşit zekâya ve öğrenme iradesine dayandığını savunur. Kitap, öğrenme sürecini hiyerarşik yapılar yerine “entelektüel özgürleşme” temelinde düşünmemizi sağlayan beş dersten oluşur.])**
+
+1818’de, Fransız öğretmen Joseph Jacotot sürgün edildiği Belçika’nın Leuven kentinde, Flaman öğrencilere Fransızca öğretmekle görevlendirilir. Ne var ki Jacotot Flamanca bilmez, öğrencileri de Fransızca bilmemektedir. Ortak bir dil olmadığı için geleneksel “ders anlatma” yolu kapanmıştır.
+
+Jacotot’nun elinde yalnızca çift dilli bir kitap vardır: Fénelon’un Télémaque’i. Sol sayfalarda Fransızca, sağ sayfalarda Flamanca yer alır. O, öğrencilerine tek bir talimat verir:
+
+“Okuyun. Karşılaştırın. Kendi cümlelerinizle yeniden yazın.”
+
+Dilbilgisi anlatmaz, kelime listeleri vermez, hiçbir “açıklama” yapmaz. Öğrenciler metni satır satır karşılaştırır; anlamadıkları yerlerde tahmin ederler, tekrar yazarlar, yüksek sesle bir daha tekrar ederler. Haftalar sonra Fransızca cümleler kurmaya başlarlar.
+
+Jacotot bu şaşırtıcı sonucu şöyle özetler: Öğrenmek için açıklama şart değildir. Öğretenin bilmemesi, öğrencinin öğrenmesini engellemez. Ve belki de en önemlisi, tüm insanlar öğrenme iradesi temelinde eşittir.
+
+Bu vakadan doğan “entelektüel özgürleşme” fikri, öğreteni bilen-anlatan kişiden çok, öğrencinin çabasına tanıklık eden kişiye dönüştürür. Bilmek yerine güvenmek; açıklamak yerine sormak esastır: “Bu sonuca nasıl vardın?”, “Hangi yolla anladın?”, “Ne düşündün?”
+
+Jacotot’nun yöntemi kısa sürede Avrupa’da tartışma yaratır; zekâ hiyerarşisine dayalı öğretim alışkanlıklarını sarsar. Deney, bize ‘bilmeden de öğretebilmenin’ mümkün olduğunu gösterir; yeter ki öğrenenin iradesi ciddiye alınsın.
+
+**Üniversite Ne Zaman Üniversite Olur?**
+
+Eğer öğretmek açıklamak değilse, o hâlde üniversite yalnızca bilgi aktarılan bir yer değildir. Üniversite, öğrencinin öğrenme iradesinin ciddiye alındığı, düşünmenin alanına saygı gösterilen bir mekân olabilir.
+
+Peki üniversite nedir? Bilgi aktarım merkezi mi, özgürleşme alanı mı?
+
+Geleneksel anlayışta üniversite, bilgiyi bilenlerden bilmeyenlere aktaran bir otorite kurumu olarak düşünülür. Ancak Jacques Rancière’in düşünsel çizgisi bu anlayışı kökten sarsar: Üniversite, açıklayıcı otoriteye dayalı bir sistem olmaktan çıkıp, öğrenme iradesine dayanan özerk bir alan olmalıdır.
+
+Gerçek üniversite, öğrencinin potansiyelini açığa çıkaran, onu edilgen konumdan öğrenen özne konumuna taşıyan bir düşünsel özgürlük mekânıdır.
+
+Öyleyse yeniden tanımlarsak: Üniversite, öğrencinin kendi aklına duyduğu güvenle bilgiye yöneldiği, düşünmeyi öğrendiği, anlam kurduğu; ezberin değil sorgulamanın geçerli olduğu bir yerdir.
+
+Ve üniversite, bilgiye erişimin ötesinde düşünmeye zaman tanıyabildiği, zorlanmayı bir öğrenme süreci olarak görebildiği, öğretim üyelerini bilen değil, eşlik eden kişiler olarak konumlandırabildiği ve öğrencilerin zekâsını derecelendirmekten çok, onların anlam kurma çabasını önemseyebildiği ölçüde anlamlıdır.
+
+Çünkü bazen bilmeden öğretebilmek, bilmekten daha derin bir sorumluluğu çağırır: Öğrenciyi düşünmeye teşvik etmek.
+Bir düşünür bu noktayı şöyle özetler: “Açıklama, anlamayı garanti etmez. Gerçek öğretim, özgürleşmeye alan açmaktır.” Özgürleşme, bilinenin bilgiyi öğretmesiyle değil; kişinin kendi zihinsel emeğini kurabilmesiyle mümkündür. Ve bazen öğreten, susarak da bunu mümkün kılar.
+
+Buradaki amaç, yalnızca bir pedagojik olasılığı tartışmak ya da üniversitedeki temsilin biçimlerini görünür kılmak değildi; üniversitenin hâlâ unutmadığı bir şeyi hatırlatma niyetiydi: Düşünmeye eşitlik tanımak.
+
+Çünkü bir öğretim üyesinin yapabileceği en adil, en doğru şey; belki de bir akademisyen olarak asıl görevi, her öğrencinin anlam kurma çabasına alan açmak, o çabaya eşlik etmek ve onun özgürleşme hakkını tanımaktır. Akademinin özgürleşmesi de, belki tam da bu yolla mümkün olur. Kim bilir…

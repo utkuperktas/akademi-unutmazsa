@@ -1,0 +1,9 @@
+---
+title: "Kaynakça"
+pagetitle: "Kaynakça"
+---
+
+# References {.unnumbered}
+
+::: {#refs}
+:::

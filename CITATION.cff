@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Akademi Unutmazsa"
+message: "If you use this work, please cite it as follows."
+type: book
+authors:
+  - family-names: Perktaş
+    given-names: Utku
+date-released: 2026
+license: CC-BY-4.0
+url: "https://utkuperktas.github.io/akademi-unutmazsa/"
+abstract: >
+  Essays on academic memory, ethics, and the transformation of university culture in Turkey.

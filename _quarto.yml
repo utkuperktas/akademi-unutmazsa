@@ -1,0 +1,73 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "AKADEMİ UNUTMAZSA"
+  subtitle: "Türkiye’de Üniversiteyi Hatırlamak"
+  author: "Utku Perktaş"
+  date: "4.1.2026"
+
+  sidebar:
+    collapse-level: 2
+
+  chapters:
+    - index.qmd
+    - basilmayan.qmd
+    - icindekiler.qmd
+    - vassaf-cagri.qmd
+    - yavaslikta-filizlenen.qmd
+    - giris.qmd
+
+    - part: "BÖLÜM I — Akademik Değer Erozyonu"
+      chapters:
+        - bolum1.qmd
+        - akademik-zorbalik.qmd
+        - nicelik-nitelik.qmd
+        - akademik-iflas.qmd
+        - lysenko.qmd
+        - bilimde-kaybolmak.qmd
+        - seyirlik-akademi.qmd
+        - merakin-yerine-hizmet.qmd
+        - gorulmeyen-akademi.qmd
+
+    - part: "BÖLÜM II — Sessizlikten Direnişe"
+      chapters:
+        - bolum2.qmd
+        - kirilgan-harita.qmd
+        - mucadelenin-izleri.qmd
+        - kubali-baris.qmd
+        - kurdele-hafiza.qmd
+        - kafesteki-kus.qmd
+        - dar-koridor.qmd
+
+    - part: "BÖLÜM III — Akademik Liderlik"
+      chapters:
+        - bolum3.qmd
+        - universiteyi-kim-temsil-eder.qmd
+        - temsilin-yuku.qmd
+        - sessiz-katman.qmd
+        - dusunmeye-esitlik.qmd
+        - solastalji.qmd
+        - ortalamadan-kacis.qmd
+        - funes-cikmazi.qmd
+        - epilog.qmd
+
+    - part: "BÖLÜM IV — Üniversite Sözlüğü"
+      chapters:
+        - bolum4.qmd
+        - sozluk.qmd
+
+    - tesekkur.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 3
+    number-sections: false
+    lang: tr

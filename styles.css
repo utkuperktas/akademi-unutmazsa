@@ -1,0 +1,124 @@
+/* Sidebar'da index (home/kapak) linkini gizle */
+nav a[href$="index.html"],
+.sidebar a[href$="index.html"],
+#quarto-sidebar a[href$="index.html"],
+#quarto-sidebar .sidebar-item a[href$="index.html"] {
+  display: none !important;
+}
+
+/* Bazı temalarda boş kalan satırı da toparlamak için */
+#quarto-sidebar .sidebar-item:has(a[href$="index.html"]) {
+  display: none !important;
+}
+
+.about-layout{
+  display:flex;
+  align-items:flex-start;
+  gap:2.5rem;
+  margin-top:1.5rem;
+}
+
+.about-text{ flex:1; min-width: 420px; }
+
+.about-cover img{
+  max-width:240px;
+  height:auto;
+  box-shadow:0 6px 18px rgba(0,0,0,0.18);
+  border-radius:6px;
+}
+
+.about-lead{
+  margin-top:1.25rem;
+  font-size:1.05em;
+  line-height:1.7;
+}
+
+.about-quote{
+  margin-top:1.5rem;
+  padding:1rem 1.2rem;
+  border-left:4px solid #c9c9c9;
+  background:rgba(0,0,0,0.02);
+  color:#333;
+  font-style:italic;
+}
+
+.endorsement{
+  margin:1.25rem 0;
+  padding:0.9rem 1.1rem;
+  border-left:4px solid #e0e0e0;
+  background:rgba(0,0,0,0.015);
+}
+
+.quote-sign{
+  display:block;
+  margin-top:0.6rem;
+  color:#666;
+  font-style:normal;
+}
+
+.about-divider{
+  margin:1.6rem 0;
+}
+
+.about-links{
+  margin-top:1.25rem;
+  font-size:1.05em;
+}
+
+/* Üst blok: başlık + kapak */
+.hero{
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:3rem;
+  margin-top:1.5rem;
+  margin-bottom:2.5rem;
+}
+
+/* Başlıklar ortalı */
+.hero-text{
+  flex:1;
+  text-align:left;
+}
+
+
+/* Kapak sağda ve küçük */
+.hero-cover img{
+  max-width:220px;
+  height:auto;
+  box-shadow:0 6px 18px rgba(0,0,0,0.2);
+  border-radius:6px;
+}
+
+/* 2026 ile ilk paragraf arası boşluğu kıs */
+.hero-text p:first-of-type {
+  margin-top: 0.25 rem;
+}
+
+h1.title {
+  font-size: 1.6rem;
+}
+
+/* figure ortalama */
+figure {
+  text-align: center;
+}
+
+/* caption stil */
+figure figcaption {
+  font-size: 0.9rem;
+  color: #555;
+  text-align: center;
+  margin-top: 8px;
+  line-height: 1.4;
+}
+
+figure img {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 8px;
+}
+
+/* Şekil 8.1 numarasını kaldır */
+.quarto-figure-caption .quarto-figure-caption-number {
+  display: none;
+}

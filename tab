@@ -1,0 +1,55 @@
+import re
+from pathlib import Path
+
+toc_file = Path("icindekiler.qmd")
+
+if not toc_file.exists():
+    raise SystemExit("icindekiler.qmd bulunamadı.")
+
+text = toc_file.read_text(encoding="utf-8")
+
+titles = {
+    "1.1": "Akademik Zorbalık Bilimi Baltalıyor mu?",
+    "1.2": "Akademinin Niceliği, Nitelik Yerine Geçtiğinde…",
+    "1.3": "Akademik İflas: Türkiye'de Yükseköğretim Arenasındaki ‘Değer’ Erozyonu",
+    "1.4": "Bilimin Yerine Geçen İdeoloji: Lysenko’nun Gölgesinde",
+    "1.5": "Bilimde Kaybolmak: Akademik Değer Erozyonunun Yansımaları",
+    "1.6": "Seyirlik Akademi: DNA ile Zirveye",
+    "1.7": "Merakın Yerine Hizmet: Öğrenci Emeği Üzerinden Güçsüzleşen Üniversite",
+    "1.8": "Görülmeyen Akademi: Atama Kültürünün Gölgesinde Üniversite",
+}
+
+pattern = re.compile(
+    r"(##\s*BÖLÜM I[^\n]*\n)(.*?)(\n##\s*BÖLÜM II\b)",
+    flags=re.S
+)
+
+m = pattern.search(text)
+if not m:
+    raise SystemExit(
+        "BÖLÜM I bloğu bulunamadı. "
+        "icindekiler.qmd ."
+    )
+
+head, block, tail = m.group(1), m.group(2), m.group(3)
+
+items = []
+for line in block.splitlines():
+    line = line.strip()
+    mm = re.match(r"[-*]\s*\[?(1\.\d)\]?\(([^)]+)\)", line)
+    if mm:
+        items.append((mm.group(1), mm.group(2)))
+
+if not items:
+    raise SystemExit("BÖLÜM I altında linkli satır bulunamadı.")
+
+new_lines = []
+for num, link in items:
+    title = titles.get(num, num)
+    new_lines.append(f"- **{num}.** [{title}]({link})")
+
+new_text = text[:m.sts) + "\n" + text[m.end(2):]
+toc_file.write_text(new_text, encoding="utf-8")
+
+print("✔ BÖLÜM I içindekiler güncellendi.")
+

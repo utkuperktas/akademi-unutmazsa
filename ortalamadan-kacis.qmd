@@ -1,0 +1,87 @@
+---
+title: "3.6"
+subtitle: "**Ortalamadan Kaçış: Yapay Zeka Çağında Üniversitenin Hafıza ve Düşünme Rolü**"
+toc: false
+---
+
+*Yapay zekâ, üniversitenin uzun geçmişinde karşılaştığı sayısız teknolojik yeniliğin en güçlülerinden biri olarak karşımızda duruyor. Fakat bu kez mesele, yalnızca bilgiye erişim biçimimizin değişmesi değil; bizzat düşünmenin nasıl gerçekleştiğine dair kuralların yeniden yazılması. İşte bu yazı, “kolaylık” ile “derinlik” arasındaki ince çizgide, üniversitenin hafızasını ve düşünme kültürünü yapay zekâ çağında nasıl koruyabileceğimizi tartışıyor.*
+
+---
+
+Teknoloji, üniversiteye her geldiğinde kendini yeniymiş gibi tanıtır. Türkiye’de 1990’larda kurulmaya başlayan bilgisayar laboratuvarları, 1990’ların sonunda internet bağlantılı kütüphaneler ve pandeminin hızlandırdığı çevrim içi eğitim platformları… Her seferinde vaat aynı: öğrenmeyi hızlandırmak, daha verimli kılmak, bilgiyi daha erişilebilir hâle getirmek. Ve her seferinde, bu araçlar gündelik hayatın sıradan unsurlarına dönüşürken, üniversitenin ne olduğu ve neye hizmet ettiği sorusu yeniden sorulur.
+
+Bugün bu soruyu yeniden sormamıza neden olan şey, yapay zekâ. Üstelik diğerlerinden farklı olarak yalnızca bilgiye erişim biçimimizi değil, düşünmenin kendisini dönüştürme iddiasıyla geliyor. Bu, “mid tech” olarak tanımlanıyor, yani ne devrimsel ne de masum. Daha çok, karmaşık meseleleri ortalama çözümlere indirgeyen, her soruya güvenli ama sıradan bir yanıt veren bir teknoloji, belki de derinliği sorgulanan ortalama bir teknoloji. “Mid tech” ifadesi, sadece teknolojinin etkisini değil, onun ürettiği düşünce biçimini de tarif ediyor: ortalamaya çekilmiş, pürüzleri törpülenmiş, farklılıkları zayıflatılmış bir dünya görüşü.
+
+M.I.T.’de yapılan ve üniversiteler arası 50’den fazla öğrenciyi kapsayan bir deneyde, ChatGPT ile yazı yazanların beyin aktivitelerinin yalnızca arama motoru kullananlardan değil, hiçbir araç kullanmayanlardan bile belirgin biçimde düşük olduğu ortaya çıkmış. Yaratıcılıkla bağlantılı alfa dalgaları azalmış, çalışma belleğini temsil eden theta aktiviteleri gerilemiş. Üstelik ortaya çıkan metinler, her biri farklı bağlamlardan gelen öğrencilerden çıkmasına rağmen, birbirine tehlikeli biçimde benzemiş. Fikirler dar bir yelpazede sıkışırken, tartışma alanı da giderek daralmış.
+
+Bu, üniversitenin karşısına yeni bir meydan okuma çıkarıyor. Eğer öğrenme süreçleri “ortalama çözümler”e teslim olursa, üniversitenin asıl işlevi, fikir çeşitliliğini korumak, eleştirel düşünmeyi geliştirmek, yerel bilgi sistemlerini yaşatmak tehdit altına girer. Sorun sadece teknolojinin varlığı değil; asıl tehlike, teknolojinin sunduğu kolaylığın, düşünme zahmetinin yerini almasıdır. Ancak bu tablo, A.I.’ın üniversite için yalnızca bir tehdit olduğu anlamına gelmez. Doğru çerçeveyle kullanıldığında, öğretim üyelerinin “idari yük” olarak gördüğü tekrar eden işleri üstlenerek, onlara öğrencilerle daha fazla zaman geçirme, bireysel destek sağlama ve ders içeriklerini farklı öğrenme stillerine göre uyarlama fırsatı sunabilir. Bu yönüyle A.I., öğretmenin etkisini çoğaltan bir “superteacher” asistanına dönüşebilir.
+
+**Bilimsel Bulgular: A.I.’ın Düşünceye Etkisi**
+
+A.I.’ın öğrenciler üzerindeki etkisini ölçen çalışmalar, “mid tech” eleştirisini somutlaştırıyor. MIT deneyinde görülen beyin aktivitesi düşüşü, Cornell’de farklı kültürlerden gelen öğrencilerin metinlerinin Batı merkezli normlara doğru homojenleşmesiyle tamamlanıyor. Favori yemek sorusuna verilen yanıtların pizza ve sushi’de, favori bayram sorusunun ise Christmas’ta yoğunlaşması tesadüf değil. Yerel tatların özgün ayrıntıları, örneğin hindistan ceviziyle marine edilmiş balık ya da limon turşusu eşliğinde bir pilav, ChatGPT’nin önerilerinde silinip gidiyor. Kültürel bağlam, “genel kabul gören”in gölgesinde buharlaşıyor. Bir çeşit yozlaşma tarifi bu.
+
+Santa Clara Üniversitesi’nde yapılan deney ise yaratıcılık alanında benzer bir tablo sunuyor. Öğrencilerden, örneğin “yerçekimi aniden çok zayıflasaydı ne olurdu?” gibi alışılmadık sorulara yanıt vermeleri istendiğinde, ChatGPT kullananlar daha hızlı sonuç üretmiş ama fikirler birbirine benzemiş, ortalamaya yakın çözümlerde yoğunlaşmış. İlk başta kendi fikirlerini üreten öğrenciler, yapay zekâdan gelen “kabul edilebilir” önerilerle birlikte giderek küratörleşmiş; seçici ama pasif bir üreticiye dönüşmüş.
+
+Bu bulgular, bir başka araştırmacının sınıfında uyguladığı yaklaşımı anlamamıza yardım ediyor. O, yapay zekâyı bir yazma aracı olarak değil, bir inceleme nesnesi olarak sınıfa taşıyor. Öğrencilerine, A.I.’ı “sosyo-teknik bir sistem” olarak analiz ettiriyor: Hangi amaçla kullanılacak? Kullanımın riskleri neler? Teknolojinin içinde gömülü, eşitsizlikleri pekiştirebilecek hangi varsayımlar var?
+
+Bir dönem boyunca öğrenciler, kendi veri haklarını araştırıyor, günlük eğitim faaliyetlerinde hangi teknolojilere bağımlı olduklarını belgeliyor ve A.I.’ın bu verilerle ne yaptığını anlamaya çalışıyor. Böylece konu, sadece teknik yeterlilik değil; etik, hukuki ve toplumsal boyutlarıyla tartışılıyor. Cottom’un dersinde A.I., düşünmenin yerini alan değil, düşünmeyi tetikleyen bir unsur hâline geliyor. A.I.’nin yozlaşma tehlikesine karşı üretken bir eylemden bahsediyorum esasında. Bu yaklaşım, risklerin yanı sıra fırsatları da görmemizi sağlıyor: A.I., öğrencilerin farklı hızlarda öğrenmesine uyum sağlayacak esnek materyaller üretebilir, anında geri bildirim vererek öğrenme sürecini destekleyebilir.
+
+**Ortalamanın Kültürel ve Politik Bedeli**
+
+Bu ortalamacı etki, yalnızca bireysel yaratıcılığın azalmasıyla sınırlı değil. A.I.’ın güvenli, risksiz, “herkese uyan” yanıtlar üretme eğilimi, uzun vadede kültürel hegemonyayı pekiştiriyor. Konuyla ilgilenen farklı yazarların vurguladığı gibi, bu metinler bize zararsız görünür çünkü tanıdık klişelerle örülüdür. Oysa bu tanıdıklık, farklı seslerin törpülenmesi, sıradışı olanın susturulması pahasına inşa edilir.
+
+Üniversitenin varlık nedeni tam da burada ortaya çıkar: Ortalamanın konforunu bozmak, farklılıkların alanını genişletmek, “güvenli” cevapların ötesine geçmek. Eğer öğrenciler, düşünmenin zahmetini ortadan kaldıran araçlara teslim olursa, üniversite yalnızca diploma dağıtan bir kurum hâline gelir. Oysa üniversite, teknoloji ne kadar güçlü olursa olsun, hafızayı ve çoğulluğu koruyarak topluma karşı sorumluluğunu yerine getirir. Bu nedenle, A.I.’ın üniversitede varlığını yasaklamak yerine, onu farklı seslerin korunması ve eleştirel tartışmanın genişletilmesi için pedagojik bir araç olarak yeniden tanımlamak mümkündür.
+
+**Üniversitenin Direnç Alanı: Eleştirel Düşünme ve Topluluk**
+
+A.I. çağında üniversitenin elinde kalan en güçlü kart, teknolojiye entegre olmak değil, onun sınırlarını gösterebilmektir. Bu, yalnızca yazılı metinlerin değerlendirilmesiyle değil; öğrencilerin bizzat teknolojiyle yüzleştiği, onu hem araç hem de inceleme nesnesi olarak ele aldığı öğrenme ortamlarıyla mümkündür.
+Öğrencilerle yapılacak en önemli şey “ortak bir etik kullanım kodu” geliştirmektir. Bu kod, yasaklamadan çok sınır çizer. Örneğin, bir dersin araştırma aşamasında A.I. kullanılabilir ama analiz veya yorumlama sürecinde yalnızca öğrencinin kendi düşünce üretimi geçerli sayılır. Düşünmeye özgürlük tanırken teknolojinin sınırı çizilmiştir bu sayede. Bu yaklaşım, teknolojiyi tamamen dışlamak yerine, onu pedagojik çerçevenin içinde, eleştirel bir biçimde konumlandırır.
+
+Bir diğer direnç alanı, topluluk odaklı öğrenme. Beloit College’daki bazı derslerde, öğrenciler final ödevlerini kampüs dışındaki topluluklarla iş birliği yaparak hazırlıyor. Kütüphaneler, yerel dernekler, yaşlılar merkezleri, küçük işletmeler… Bu tür ortamlarda öğrenme, A.I.’ın tek tipleştirici etkisine karşı canlı bir bağ kuruyor. Çünkü orada üretilen bilgi, yalnızca metinsel değil; ilişkisel, bedensel, duygusal.
+
+Pandemi, üniversitenin bu yönünü zayıflattı. Ekranlar, ortak mekânların yerini aldı; öğrenciler yalnızlaştı, topluluk duygusu aşındı. İşte tam da bu nedenle, A.I. çağında üniversitenin en kritik görevi, yeniden bir ortak düşünme alanı inşa etmek olmalı. Bu alan, öğrencinin yalnızca kendi fikirlerini geliştirdiği değil; başkasının fikriyle çarpışarak, değişerek, dönüşerek düşündüğü yerdir.
+
+**Sonuç: Ortalamadan Kaçış, Hafızadan Güç Alma**
+
+A.I. çağında üniversitenin karşısındaki en büyük tehlike, teknolojinin hızı ya da kapasitesi değil; onun sunduğu kolaylıkların düşünme zahmetinin yerini almasıdır. Ortalama çözümler, konforlu cevaplar, pürüzsüz metinler… Bunlar, öğrenmenin en zahmetli ama en verimli aşaması olan çelişkiyle yüzleşme ve belirsizlikle düşünme süreçlerini erozyona uğratır.
+
+Üniversite, bu erozyona karşı bir direnç alanıdır. Düşüncenin çeşitliliğini, kültürel özgünlüğü, eleştirel sorgulamayı ve topluluk bağını korumak, onu var eden asıl gerekçedir. Bir öğrencinin yalnızca “ne” bildiğini değil, “nasıl” düşündüğünü, “hangi soruları sorduğunu” ve “hangi değerler uğruna düşündüğünü” şekillendirebilen bir kurum, A.I. ile kıyaslanamaz.
+
+Hafıza burada kilit rol oynar. Üniversite, yalnızca geçmişin belgelerini saklayan değil; unutulmak istenenleri hatırlatan, görünmez kalanı görünür kılan, farklı sesleri yaşatan bir bellek alanıdır. Bu hafıza, ortalamaya teslim olmamayı, çoğulluğu savunmayı, düşüncenin ve bilginin tek bir merkeze çekilmesine direnebilmeyi mümkün kılar.
+A.I. çağında üniversite, kendini teknolojinin gölgesinde yeniden tanımlamak zorunda kalacak. Ama bunu, teknolojiyle yarışarak değil; onun yapamadığını yaparak, ortalamadan kaçışın mekânı olarak başarabilir. Akademi unutmazsa, yalnızca bilgiyi değil; özgünlüğü, eleştiriyi ve insanın düşünsel cesaretini de geleceğe taşır.
+
+**Üniversitede A.I. Kullanım Rehberi**
+
+1. İlke Belirleme
+
+- A.I. kullanımının amacı ve sınırları dersin başında açıkça tanımlanmalı.
+
+- “Tam yasak” yerine “amaç odaklı izin” yaklaşımı: nerede kullanılabilir, nerede yasaktır?
+
+2. Şeffaflık
+
+- Öğrenciler, ödev ve projelerinde A.I. kullandıklarında bunu beyan etmekle yükümlü olmalı.
+
+- Kullanım türü (metin üretimi, fikir üretimi, kaynak bulma vb.) açıkça belirtilmeli.
+
+3. Eleştirel Entegrasyon
+
+- A.I. yalnızca içerik üretiminde değil, eleştirel çözümlemede de kullanılmalı: “Bu yanıt neden böyle?”, “Hangi önyargıları taşıyor?”
+
+- A.I. çıktıları ile insan üretimi yanıtlar karşılaştırılarak sınıfta tartışılmalı.
+
+4. Kültürel ve Yerel Bağlamın Korunması
+
+- Yerel bilgi, dil, gelenek ve bağlamların A.I. tarafından silinme riskine karşı bilinç oluşturulmalı.
+
+- Öğrencilerden A.I. yanıtlarını yerel/bireysel özgünlükle zenginleştirmeleri istenmeli.
+
+5. Topluluk Bağı
+
+- Projelerin bir kısmı, mümkünse kampüs dışına taşmalı, farklı üniversiterden ya da sivil toplum kuruluşlarından kişilerle akademik iş birliği içinde tasarlanmalı; bu, A.I.’ın dijital sınırlarının ötesine geçer.
+
+6. Veri Etiği
+
+- Öğrenciler ve akademisyenler, A.I. platformlarının veri toplama politikalarını öğrenmeli.
+
+- Üniversite, öğrenci verilerinin korunmasına yönelik açık protokoller geliştirmeli.

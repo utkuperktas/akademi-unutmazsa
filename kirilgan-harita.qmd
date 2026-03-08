@@ -1,0 +1,62 @@
+---
+title: "2.1"
+subtitle: "**Sessizlikten Küresel Çöküşe: Akademik Özgürlüğün Kırılgan Haritası**"
+toc: false
+---
+
+*Üniversitelerdeki sessizlik, giderek küresel ölçekte büyüyen bir baskı dalgasına dönüşüyor. İlk bölümde içeriden tanıklıklarla çizdiğim tabloyu, burada daha geniş bir çerçeveyle tamamlamaya çalışıyorum: Akademik özgürlük, yalnızca bireysel ya da ulusal düzeyde değil; dünya genelinde otoriter eğilimlerin kıskacında tehdit altında.*
+
+*Akademik kimliğin ve üniversite özerkliğinin sistemli biçimde nasıl aşındırıldığına odaklanırken, diploma iptali gibi uygulamaların yalnızca kişisel hak ihlali değil; aynı zamanda demokrasiye yönelik kolektif bir tehdit oluşturduğunu vurguluyorum. Macaristan’dan Amerika’ya, Türkiye’den Çin’e uzanan örnekler, küresel ölçekte bir çöküş haritası çiziyor.*
+
+*Ancak bu karanlık manzara, aynı zamanda dayanışma ve direniş örneklerini de içinde barındırıyor. Bu bölüm, akademinin yeniden ayağa kalkabileceği yolları, eleştirel düşüncenin gücüyle birlikte yeniden düşünmeye çağırıyor.*
+
+---
+
+"Görülmeyen Akademi"de içeriden bir bakışla başlayan hikâye, bu yazıda daha geniş bir perspektifle sürüyor. Bir önceki bölümün kapanış yazısında resme yakından, mikro ölçekte bakmaya çalışmıştım. Şimdi resmin tamamını görebilmek için biraz geri çekiliyoruz. Mikro ölçekte yaşanan sessizlikler, makro ölçekte akademik özgürlüğü ve demokrasiyi tehdit eden küresel bir baskı dalgasına mı dönüşüyor?
+
+Türkiye’de üniversite özerkliği ve kurumsallaşma yolunda ilerleme yerine zamanla bir gerileme yaşandı. Son yirmi yılda, akademik unvanlardan bilimsel çıktılara kadar yükseköğretimin farklı alanlarında bir değer kaybı süreci gözlemlendi. Türk yükseköğretim sistemi, yalnızca kalite açısından değil, akademik özgürlük ve bilim insanlarının bağımsızlığı yönünden de köklü bir dönüşüm geçirdi.
+
+Artık akademik unvanlar ve diplomalar yalnızca kişisel başarıların göstergesi değil; aynı zamanda siyasi ve ekonomik düzenin yeniden üretiminde kullanılan araçlara dönüşmüş durumda. Üniversite mezunlarının sayısının artırılması, yükseköğretimi daha erişilebilir hale getirme yönünde olumlu bir adım gibi görünebilir. Ancak asıl soru şu: Bu diplomalar ve akademik unvanlar ne kadar anlamlı ve güvenceli? Eğer bu unvanlar ideolojik ya da siyasi kriterlere göre verilebiliyor ya da geri alınabiliyorsa, üniversiteler bilgi üretimine adanmış özerk kurumlar olarak gerçekten işlev görebilir mi?
+
+Bu noktada, 2025 yılında ülkemizde yaşanan bir diploma iptali vakasına değinmek istiyorum. Artık bu mesele yalnızca akademik bir sorun değil; doğrudan demokrasinin temelini ilgilendiren bir konu hâline geldi. Eğer bir devlet, akademik kurumlar aracılığıyla diplomaları ideolojik ya da siyasi gerekçelerle iptal edebiliyorsa, bu yalnızca bireylerin eğitim geçmişini değil; aynı zamanda kamusal alanın bütünlüğünü ve hukuk devletinin temel ilkelerini de zedeler. 
+
+Bir sabah uyandığınızı ve yıllarınızı vererek, belki de öğrenci kredileriyle finanse ederek kazandığınız, kariyerinizi üzerine inşa ettiğiniz diplomanızın geçersiz ilan edildiğini öğrendiğinizi hayal edin. Gerekçe? Belirsiz. Bir mahkeme kararı mı? Olabilir. Siyasi bir kampanyanın sonucu mu? Büyük olasılıkla. Sahip olduğunuz akademik kimlik ve sosyal statü bir anda silinir.
+
+Bu, varsayımsal bir senaryo değil. Türkiye’de çoktan gerçekleşmiş bir vaka. Yakın zamanda bir belediye başkanı, bir üniversitede dekanlık yapmış bir profesör ve bazı iş insanlarının da aralarında bulunduğu 28 kişinin diplomaları iptal edildi. Üstelik bu karar, Türkiye’nin en köklü akademik kurumlarından biri tarafından alındı. Cumhuriyetin ilk yüzyılında yükseköğretimin modernleşmesine öncülük etmiş bir üniversite, bugün nesnel akademik standartlardan uzaklaşmanın en çarpıcı örneklerinden biri hâline geldi.
+
+Bu durum yalnızca bireysel kariyerlere yapılan bir müdahale değil; daha geniş bir siyasi projenin parçası. Otoriter rejimlerde diploma iptali, siyasi tasfiyelerin aracı hâline gelebilir. Bu süreç üniversite özerkliğini zayıflatır, akademik kadroları ideolojik ve siyasi uyuma zorlar. Dolayısıyla diploma iptali, bireysel bir kaybın ötesinde, akademik özgürlüğe yönelik kolektif bir müdahaledir.
+
+**Yükseköğretim: Bir Kontrol Mekanizması mı?**
+
+Yükseköğretim, tarihsel olarak yalnızca bilgi aktarma işlevi görmemiş; aynı zamanda devletlerin bireyleri biçimlendirme süreçlerinde kullandığı stratejik bir araç olmuştur. Bu çelişkili rol, üniversitenin hem özgür düşüncenin alanı hem de ideolojik yönlendirme mekanizması olarak işlev görmesine yol açmıştır. İngiliz siyaset bilimci ve akademisyen Matt Goodwin, Bad Education kitabında ^[Bad Education: Why Education Systems Are Failing and What We Can Do About It. London: Bantam, 2025. ISBN: 9781787635241.], üniversitelerin bir zamanlar bilgi, bilgelik, kanıt, akıl ve en önemlisi hakikat arayışıyla özdeşleştiğine dair toplumsal inancın nasıl zayıfladığını tartışır. Goodwin, son dönemde üniversitelerin siyasi ve ideolojik amaçlarla yeniden biçimlendirildiğini ve bu durumun akademik özerklik ve düşünce çeşitliliği açısından ciddi riskler barındırdığını vurgular. Böylece bir zamanların hakikat merkezli yükseköğretim ideali, dar ideolojik kalıplara sıkışmış daha işlevselci bir anlayışa bırakmaktadır yerini.
+
+Yükseköğretim hiçbir zaman tamamen tarafsız olmadı; tarihsel olarak, akademiye erişimi ve yapısını kontrol edenler, üniversiteleri belirli ideolojik çerçeveler içinde şekillendirdi. Ancak bu durum, üniversitenin düşünsel özgürlük, eleştirel akıl ve toplumsal sorumluluk gibi asli misyonlarını geçersiz kılmaz. Aksine, bu değerlerin sürekli olarak savunulması gerektiğini gösterir.
+
+Bu da kritik bir soruyu gündeme getiriyor: Eğer yükseköğretim sistemi zaten kusurluysa, diploma iptali bu kusurları düzeltebilir mi? Yoksa yalnızca yeni bir cezalandırma mekanizması mı yaratır?
+
+Özellikle temel eğitimde bilimsel akla yönelik müdahaleler, bugün yükseköğretimde karşı karşıya olduğumuz özgürlük krizinin erken işaretlerini taşıyordu. Evrim kuramının müfredattan çıkarılması ve yaratılışçılığın eğitim sistemine dâhil edilmesi gibi adımlar, bilimsel düşüncenin kamusal alandan aşamalı olarak çekilmesine zemin hazırladı.
+Ortadoğu’nun en laik ülkesi olarak görülen Türkiye, uzun süre Avrupa ile uyum sağlamaya çalıştı. Ancak bugün, akademik özgürlükler alanında hızla otoriterleşmeye sürükleniyor. Bu yalnızca Türkiye’ye özgü değil; benzer baskılar, dünyanın birçok bölgesinde yükseköğretimi tehdit ediyor.
+
+Tarih boyunca otoriter rejimler, üniversiteleri sansürleme ve kontrol altına alma yolları aramıştır. Akademik unvanların iptali, bu baskı araçlarından yalnızca biridir. Örneğin Macaristan’da Viktor Orbán hükümeti, Central European University’yi (CEU) hukuki ve siyasi baskılar sonucu ülkeyi terk etmeye zorladı. Avrupa Birliği sınırları içinde bir üniversitenin fiilen sınır dışı edilmesi, yükseköğretim tarihinde ciddi bir kırılma noktasıydı.
+
+Türkiye’de de Boğaziçi Üniversitesi gibi köklü kurumlar, doğrudan atamalar yoluyla özerkliklerini yitiriyor. Çin’de Komünist Parti’nin ideolojik direktifleri doğrultusunda üniversiteler şekillendiriliyor. Rusya’da akademisyenler siyasi görüşleri nedeniyle görevden alınıyor. Lysenko örneğinde olduğu gibi ^[Trofim Lysenko (1898–1976), Sovyetler Birliği’nde ideolojik temelli bir bilim anlayışı olan “Lysenkoizm”in kurucusudur. Genetik bilimiyle çelişen, bilimsel dayanağı olmayan tarım uygulamalarıyla milyonlarca insanın açlıktan ölmesine neden olmuş; ideolojiyi bilimin önüne koyarak Sovyet biyolojisini onlarca yıl geriye götürmüştür. Bkz. Perktaş, U. (2024). “Bilim Üzerine İdeolojik Çarpıtmalar: Lysenkoizm’den Darwin Karşıtlığına,” Antroposen Sohbetler, 8 Mayıs 2024.
+], bilimsel gerçeklerin ideolojik dogmalara kurban edilmesi eğilimi yeniden güç kazanıyor. Rusya’da öğretmenler artık öğrencilere aşırı milliyetçi görüşleri zorla benimsetmek zorunda bırakılıyor ^[Pjotr Sauer, “‘Many teachers don’t want to do this, but they’re trapped’: film shows extent of Putin indoctrination in Russian schools,” The Guardian, February 9, 2025.].
+
+Bu örnekler, akademik özgürlüğe yönelik saldırıların münferit uygulamalar değil; otoriter rejimlerin stratejik yönelimlerinin bir parçası olduğunu açıkça ortaya koyuyor.
+
+**Harvard Üniversitesi Örneği: Özgürlüğün Batılı Yüzü**
+
+Amerika Birleşik Devletleri’nde Harvard Üniversitesi, Trump yönetimiyle yaşanan gerilim sürecinde akademik özerkliğe yönelik baskılara karşı açık bir tutum sergiledi. Beyaz Saray’ın politik müdahale girişimlerine karşı, üniversite yönetimi kurumun bağımsızlığını tehdit eden bu sürece direnç gösterdiğini kamuoyuyla paylaştı.
+Olayın ardından Beyaz Saray, söz konusu mektubun “yetkisiz” bir girişim olduğunu savunarak geri adım attı. Ancak bu açıklama, akademik kurumların siyasi müdahalelere ne denli açık hâle geldiğini ve bu tür baskıların artık olağanlaştığını gizleyemedi.
+
+Üniversiteler ve akademik kimlikler bağımsız değilse, o toplumda özgür düşüncenin yeşermesi mümkün değildir. Diploma iptali yalnızca bireylere yönelik bir yaptırım değil; aynı zamanda akademik yapıları hedef alan ve demokrasinin dokusuna zarar verme riski taşıyan bir uygulamadır.
+
+Yükseköğretimin temel işlevi, var olan düzene uygun bireyler yetiştirmek değil; bilimsel bilgi üretmek ve düşünsel çeşitliliği desteklemektir. Çeşitlilik, birlikte yaşamanın ön koşuludur. Eğer üniversiteler özgürlüğü savunacaksa, akademik unvanların siyasi araçlara dönüşmesine karşı çıkmak zorundadır.
+
+Bu tablo bize şunu hatırlatıyor: Akademideki kırılmalar sadece bir ülkenin değil, tüm dünyanın hikâyesidir. Atama kültürünün yükseldiği, siyasi sadakatin liyakatin önüne geçtiği her yerde, bilimsel etik değerler zayıflar ve üniversitelerin toplumsal rolü geriler.
+
+Amerika Birleşik Devletleri’nde Donald Trump yönetiminin üniversiteleri hedef alan mali yaptırım tehditleri, yalnızca iç politika değil, küresel ölçekte yükselen özgürlük karşıtı dalganın bir uzantısıydı. Ancak bu baskı ortamında bazı kurumlar geri adım atmadı. Harvard Üniversitesi’nin açtığı dava, akademik özerkliğin hukuki yollarla da savunulabileceğini gösteren bir örnek oldu.
+
+Tarih boyunca en baskıcı dönemlerde bile özgür düşünce bir yolunu bulmuş, yeniden filizlenmiştir.
+Peki üniversiteler ve bilim insanları bu gidişata karşı nasıl direnecek? Cevap belki de her zamanki yerde saklı: Bilimsel merakta, özgür düşüncede ve kolektif vicdanın dayanışmasında. Akademi, geçmişte olduğu gibi bugün de kendini yeniden tanımlayabilir. Çünkü üniversiteler yalnızca bilgi aktaran değil; birlikte yaşamın mümkün olduğuna dair inancı taşıyan yerlerdir.
+
