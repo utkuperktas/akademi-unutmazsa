@@ -57,7 +57,11 @@ book:
       chapters:
         - bolum4.qmd
         - sozluk.qmd
-
+        
+    - part: "BÖLÜM V — Ekler"
+      chapters:
+        - ekokumalar.qmd
+    
     - tesekkur.qmd
 
 bibliography: references.bib

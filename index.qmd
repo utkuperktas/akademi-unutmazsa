@@ -12,10 +12,10 @@ toc: false
 ### Bellek, Etik ve Akademik Kültür Arasında Bir Arayış
 
 **Utku Perktaş**
-
-Çizimler: Yasemin Sayıbaş Akyüz
-
-Nisan 2026
+<a href="https://orcid.org/0000-0002-5988-7289" target="_blank">
+<img src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
+style="vertical-align:middle; margin-left:6px;" alt="ORCID iD">
+</a>
 
 </div>
 
@@ -58,6 +58,8 @@ Utku Perktaş zor bir iş yapıyor. Bir yandan daha iyi bir biyolog olmak için 
 </p>
 
 <div style="text-align:left; font-size:0.9rem; color:#666; margin-top:30px;">
+
+**Kapak İllüstrasyonu ve Kitap İçi Çizimler:** Yasemin Sayıbaş Akyüz
 
 **Kaynak Gösterimi:**
 
