@@ -1,5 +1,7 @@
 ---
-title: "Ek Okuma Önerileri"
+title: "5.1"
+subtitle: "**Ek Okuma Önerileri**"
+toc: false
 ---
 
 Bu kitap tamamlandıktan sonra da akademi ve üniversite üzerine yazmayı sürdürdüm. Bu süreçte kaleme aldığım bazı metinler, tematik olarak kitabın tartıştığı meselelerle doğrudan ilişki kuruyor; ancak kitabın yazımından sonra ortaya çıktı. Birikim Online ve Yetkin Report gibi mecralarda yayımlanan bu yazıları, kitabın ana argümanlarını tamamlayan ve genişleten ek okumalar olarak burada başlıkları ve bağlantılarıyla birlikte kronolojik sırayla bir araya getirdim.
