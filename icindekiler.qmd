@@ -4,7 +4,7 @@ pagetitle: "İçindekiler"
 toc: false
 ---
 
-- [Basılmayan Bir Kitabın Notu](basilmayan.qmd)
+- [Basıl-a-mayan Bir Kitabın Notu](basilmayan.qmd)
 - [Utku Perktaş’ın Çağrısı – Gündüz Vassaf](vassaf-cagri.qmd)
 - [Anlamın Yavaşlıkta Filizlendiği Bir Kitap](yavaslikta-filizlenen.qmd)
 - [Giriş](giris.qmd)
@@ -44,6 +44,9 @@ toc: false
 ## BÖLÜM IV — Bugünün Üniversite Sözlüğü
 - [Bölüme Dair](bolum4.qmd)
 - **4.1.** [Sözlük](sozluk.qmd)
+
+## BÖLÜM V — Ekler
+- **5.1.** [Ek Okuma Önerileri](ekokumalar.qmd)
 
 ## Kapanış
 - [Teşekkür](tesekkur.qmd)

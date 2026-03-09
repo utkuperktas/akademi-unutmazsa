@@ -17,6 +17,8 @@ toc: false
 style="vertical-align:middle; margin-left:6px;" alt="ORCID iD">
 </a>
 
+**Kapak İllüstrasyonu ve Kitap İçi Çizimler:** Yasemin Sayıbaş Akyüz
+
 </div>
 
 <div class="hero-cover">
@@ -58,8 +60,6 @@ Utku Perktaş zor bir iş yapıyor. Bir yandan daha iyi bir biyolog olmak için 
 </p>
 
 <div style="text-align:left; font-size:0.9rem; color:#666; margin-top:30px;">
-
-**Kapak İllüstrasyonu ve Kitap İçi Çizimler:** Yasemin Sayıbaş Akyüz
 
 **Kaynak Gösterimi:**
 
