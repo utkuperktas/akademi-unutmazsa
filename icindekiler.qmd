@@ -8,7 +8,6 @@ toc: false
 - [Utku Perktaş’ın Çağrısı – Gündüz Vassaf](vassaf-cagri.qmd)
 - [Anlamın Yavaşlıkta Filizlendiği Bir Kitap](yavaslikta-filizlenen.qmd)
 - [Giriş](giris.qmd)
-- [Akademinin Anlamını Hatırlamak](akademinin-anlamini-hatirlamak.qmd)
 
 ## BÖLÜM I — Akademik Değer Erozyonu
 - [Bölüme Dair](bolum1.qmd)
