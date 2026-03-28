@@ -76,3 +76,4 @@ format:
     toc: false
     number-sections: false
     lang: tr
+    include-in-header: include-in-header.html
