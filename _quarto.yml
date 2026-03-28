@@ -2,9 +2,6 @@ project:
   type: book
   output-dir: docs
 
-website:
-  google-analytics: "G-HJ6RB91CHM"
-
 book:
   title: "AKADEMİ UNUTMAZSA"
   subtitle: "Türkiye’de Üniversiteyi Hatırlamak"
